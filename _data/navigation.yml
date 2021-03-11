@@ -15,6 +15,10 @@
   - text: "Publications" # Title for block of menu items
   - text: EuroSun 2020
     href: /downloads/SCoSCo_EuroSun2020.pdf
+  - text: COMSOL 2020 SCO1
+    href: /downloads/SCoSCo_COMSOL2020_SCO1.pdf
+  - text: COMSOL 2020 SCO4
+    href: /downloads/SCoSCo_COMSOL2020_SCO4.pdf
   - text: IHT 2021
     href: /downloads/SCoSCo_IHT2021.pdf
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
